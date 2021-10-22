@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<!DOCTYPE bookdtd SYSTEM "book.dtd">
+<book>
+<title>The One</title>
+<author>First Author</author>
+<publisher>First Publications</publisher>
+<year>2002</year>
+<isbn>1111-2222-34</isbn>
+<price>1000</price>
+</book>
+<book>
+<title>The Two</title>
+<author>Second Author</author>
+<publisher>Second Publications</publisher>
+<year>2004</year>
+<isbn>2222-1111-34</isbn>
+<price>2000</price>
+</book>
+<book>
+<title>The Three</title>
+<author>Third Author</author>
+<publisher>Third Publications</publisher>
+<year>2006</year>
+<isbn>3333-1111-24</isbn>
+<price>1500</price>
+</book>
